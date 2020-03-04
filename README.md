@@ -1,5 +1,8 @@
 # Windows Optimizer
 Epsylon Tech's recommended tools for optimizing Windows 10 for both performance and privacy.
+
+[![Watch the video](https://img.youtube.com/vi/7btTrmTQqC8/maxresdefault.jpg)](https://www.youtube.com/watch?v=7btTrmTQqC8)
+
 ## Getting Started
 1. Download desired files from the `Download/` directory.
 2. Ensure Powershell execution is allowed by running the following command in Powershell as administrator.
