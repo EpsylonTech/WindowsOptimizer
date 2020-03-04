@@ -68,6 +68,7 @@ $bloatwares = @(
     "*DrawboardPDF*"
     "*Duolingo*"
     "*EclipseManager*"
+    "*FarmHeros*"
     "*FarmVille*"
     "*FitbitCoach*"
     "*Flipboard*"
